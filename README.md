@@ -1,5 +1,6 @@
 # EaglerCraftX Server
 
+I do own minecraft in my main private account and this server is for educational purposes only just to gain this server popluar i do not like to harm any terms even though its eaglercraftx i own minecraft and i want to make a server
 ## Credits
 Original Project: Lax1Dude
 <br>
