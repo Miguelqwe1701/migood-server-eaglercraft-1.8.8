@@ -2,7 +2,7 @@
 # ~~~ EaglercraftX Server
 # ~~~ >> smashed together once again by ayunami2000
 # ~~~ >> modified by WinRAR
-
+. installs.sh
 unset DISPLAY
 
 echo "set -g mouse on" > ~/.tmux.conf
